@@ -1,7 +1,7 @@
 # Organizational Digital Twin (ODT) – Project Specification
 
 ## Objective
-An Organizational Digital Twin for teamwork simulation. Context of engineering teams. Considerations of a heirarchical skill matrix, to create teams skill-based over role-based.
+An Organizational Digital Twin for teamwork simulation. Considerations of a heirarchical skill matrix, to create teams skill-based over role-based.
 
 ## Features
 - Django backend
