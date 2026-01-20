@@ -1,24 +1,23 @@
 # Organizational Digital Twin (ODT) – Project Specification
 
 ## Objective
-Build a minimal, defensible Organizational Digital Twin for teamwork simulation.
+An Organizational Digital Twin for teamwork simulation. Context of engineering teams. Considerations of a heirarchical skill matrix, to create teams skill-based over role-based.
 
-## Constraints
+## Features
 - Django backend
 - PostgreSQL + Redis via Docker
 - Python 3.11+
+
 - TDD enforced
 
 ## Scope (MVP)
-- Employee and Skill modeling
-- Basic simulation engine
-- Simple UI for configuration and results
+- Employee skills modeled based on engineering teams.
+- MPI parallelism.
+- Simulated Annealing engine with Monte Carlo re-runs.
+- Stochasticity.
 
 ## Non-Goals (MVP)
 - DRL
 - External API integrations
 - Cloud deployment
 
-## Approval Rule
-No code is written until an implementation plan is approved.
-No file deletions without explicit approval.
