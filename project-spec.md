@@ -1,23 +1,16 @@
-# Organizational Digital Twin (ODT) – Project Specification
+# Simulated, Parallelized Digital Twin– Project Specification
 
 ## Objective
-An Organizational Digital Twin for teamwork simulation. Considerations of a heirarchical skill matrix, to create teams skill-based over role-based.
+A Digital Twin for teamwork simulation. Considerations of a heirarchical skill matrix, simulated and implemented acrss asymmetric microarchitectures.
 
 ## Features
-- Django backend
-- PostgreSQL + Redis via Docker
-- Python 3.11+
+- SimGrid sandbox simulations of super-computer hypotheses
+- Linux Netem network jitter-resilient
+- Alder Lake CPU parity
 
-- TDD enforced
-
-## Scope (MVP)
-- Employee skills modeled based on engineering teams.
+## Scope
+- Employee skills modeled based on engineering teams, computing nash equilibria.
 - MPI parallelism.
-- Simulated Annealing engine with Monte Carlo re-runs.
+- SimGrid engine with Monte Carlo re-runs.
 - Stochasticity.
-
-## Non-Goals (MVP)
-- DRL
-- External API integrations
-- Cloud deployment
 
