@@ -9,8 +9,8 @@ A Digital Twin for teamwork simulation. Considerations of a heirarchical skill m
 - Alder Lake CPU parity
 
 ## Scope
-- Employee skills modeled based on engineering teams, computing nash equilibria.
+- Employee skills modeled based on engineering teams, computing nash equilibria for tomopgraphy.
 - MPI parallelism.
-- SimGrid engine with Monte Carlo re-runs.
+- SimGrid framework
 - Stochasticity.
 
